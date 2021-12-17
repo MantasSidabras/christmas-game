@@ -1,5 +1,5 @@
 const debug = false;
-let screen = 'end';
+let screen = 'lobby';
 const startPos = -20;
 var y = startPos;
 var x = 200;
